@@ -18,5 +18,4 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit2012&" alt="pulkit2012" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit2012&theme=highcontrast" alt="pulkit2012" /></p>
